@@ -1,31 +1,9 @@
-# Kerf Issues
+# Kerf Issues — retired
 
-Public bug tracker and feature-request hub for [Kerf](https://kerf.fyi) — a desktop web editor by Smoothgrain. The Kerf app source lives in a private repository; this is where you come to file public issues.
+This repository is archived and no longer monitored.
 
-## Where to go
+- **Release notes / changelog** → [voice.smoothgrain.app/kerf/changelog](https://voice.smoothgrain.app/kerf/changelog) ([RSS](https://voice.smoothgrain.app/kerf/changelog.rss)). Old `releases/tag/vX.Y.Z` links on this repo map to `https://voice.smoothgrain.app/kerf/changelog/vX.Y.Z`.
+- **Report a bug / get help** → [kerf.fyi/support](https://kerf.fyi/support) or [support@smoothgrain.app](mailto:support@smoothgrain.app). The in-app **Help → Report a problem** menu prefills the email with version + OS info.
+- **Security issue** → [security@smoothgrain.app](mailto:security@smoothgrain.app) — never a public issue.
 
-- **Report a bug** → [New issue → Bug report](https://github.com/SmoothGrain/kerf-issues/issues/new?template=bug_report.yml). Include your Kerf version, OS, and steps to reproduce. The in-app **Help → Report a problem** menu will also prefill an email to `support@smoothgrain.app` with that info.
-- **Request a feature** → [New issue → Feature request](https://github.com/SmoothGrain/kerf-issues/issues/new?template=feature_request.yml), or start a [Discussion](https://github.com/SmoothGrain/kerf-issues/discussions). Feature work is prioritised from upvotes here.
-- **Ask a question** → [Discussions → Q&A](https://github.com/SmoothGrain/kerf-issues/discussions/categories/q-a). Faster than filing an issue.
-- **Account, billing, license recovery** → email [support@smoothgrain.app](mailto:support@smoothgrain.app). These aren't public issues.
-- **Security issue** → email [security@smoothgrain.app](mailto:security@smoothgrain.app). **Do not file a public issue.** See [SECURITY.md](./SECURITY.md).
-
-Not sure where to start? [kerf.fyi/support](https://kerf.fyi/support).
-
-## What's in scope here
-
-Issues filed on this tracker should be about the Kerf desktop app itself — install/launch, editing, preview, design tokens, accessibility audit, deploys, snippets, auth, license, and anything else the app does.
-
-Out of scope (please use upstream channels):
-
-- Third-party services the app talks to (Vercel, LemonSqueezy).
-- Your own workspace content — we can't access private folders.
-- Feature requests for `smoothgrain.app`, `sage.fyi`, `notch.fyi`, or other Smoothgrain apps.
-
-## Response times
-
-Kerf is run by a small team. Typical response on public issues is a few business days. Security issues get an acknowledgement within 72 hours.
-
-## Contributing
-
-Issues and Discussions welcome. Small typo / clarity PRs welcome too. For anything larger, open an issue first. See [CONTRIBUTING.md](./CONTRIBUTING.md) for PR conventions and the attribution policy. Coding agents should also read [AGENTS.md](./AGENTS.md) before their first commit.
+Feature requests and feedback move to Smoothgrain Voice's feedback portal when it ships.
