@@ -6,7 +6,7 @@ This repo is the public tracker and discussion hub for [Kerf](https://kerf.fyi).
 
 - **Bug**: use the [Bug report](https://github.com/SmoothGrain/kerf-issues/issues/new?template=bug_report.yml) template. Include your Kerf version, OS, and steps to reproduce.
 - **Feature**: use the [Feature request](https://github.com/SmoothGrain/kerf-issues/issues/new?template=feature_request.yml) template, or open a [Discussion](https://github.com/SmoothGrain/kerf-issues/discussions) if you want to explore the idea first.
-- **Security**: **do not** file an issue. Email security@smoothgrain.app instead. See [SECURITY.md](./SECURITY.md).
+- **Security**: **do not** file an issue. Email support@smoothgrain.studio instead. See [SECURITY.md](./SECURITY.md).
 - **Question**: use [Discussions → Q&A](https://github.com/SmoothGrain/kerf-issues/discussions/categories/q-a).
 
 See [kerf.fyi/support](https://kerf.fyi/support) for the full routing table.

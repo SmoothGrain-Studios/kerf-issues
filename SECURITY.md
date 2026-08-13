@@ -4,7 +4,7 @@ Thanks for helping keep Kerf and its users safe.
 
 ## Reporting a vulnerability
 
-**Email [security@smoothgrain.app](mailto:security@smoothgrain.app)** with:
+**Email [support@smoothgrain.studio](mailto:support@smoothgrain.studio)** with:
 
 - A description of the issue and the impact.
 - Steps to reproduce (or a proof-of-concept).
@@ -25,7 +25,7 @@ Please **do not** open a public issue, pull request, or discussion for security 
 In scope:
 
 - The Kerf desktop app (macOS, Windows, Linux) — installer, auto-update, renderer, main process, preload bridge.
-- The device-auth flow between Kerf and `smoothgrain.app`.
+- The device-auth flow between Kerf and the SmoothGrain identity service (`me.oravara.io`).
 - The static preview server Kerf runs on `127.0.0.1` while a workspace is open.
 - The license / entitlement store on disk.
 - Kerf's Vercel deploy integration (what the app does with a provided Vercel token).
