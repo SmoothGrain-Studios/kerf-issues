@@ -10,7 +10,7 @@ Concretely, when making commits in this repo (or any SmoothGrain repo):
 
 - Do **not** add `Co-Authored-By:` trailers for AI assistants or coding agents (Claude, Codex, Copilot, Cursor, Aider, Devin, GPT, Anthropic, OpenAI, or any other tool). The trailers show up on GitHub's Contributors page and imply maintainership.
 - Do **not** set the Git author or committer to an AI-named identity (e.g. `noreply@anthropic.com`, `noreply@openai.com`).
-- The author and committer must always be the human you're working for — for this repo, that's **James Burnett `<semajttenrub@icloud.com>`**.
+- The author and committer must always be the brand identity that maps to the GitHub account — for this repo, that's **`SmoothGrain <smoothgrain@icloud.com>`**.
 
 ## Before your first commit
 
